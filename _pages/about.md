@@ -17,7 +17,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I’m Kayla, a junior at the University of Pennsylvania’s School of Engineering and Applied Science, majoring in Computer Science with minors in Cognitive Science and Linguistics. I’m passionate about etymology, history, user experience design, and uncovering surprising connections between fields!
+Hi! I’m Kayla, a junior at the University of Pennsylvania’s School of Engineering and Applied Science, majoring in Computer Science with minors in Cognitive Science and Linguistics. I’m passionate about education, etymology, history, user experience design, and uncovering surprising connections between fields!
+
+In my free time, I read a lot of fantasy books (check out the Stormlight Archive) and I love to play action/adventure videogames such as TLOU, Dying Light, and The Witcher. The larger and more fantastical the world, the happier I am.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
