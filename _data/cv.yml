@@ -2,9 +2,9 @@
   type: map
   contents:
     - name: Full Name
-      value: Kayla Simpson
+      value: Kayla Elenia Simpson
     - name: Date of Birth
-      value: 17th November 2003
+      value: November 17, 2003
     - name: Languages
       value: English
 
@@ -12,21 +12,17 @@
   type: time_table
   contents:
     - title: Bachelor's of Engineering
-      institution: University of Pennsylvania, Phildelphia, Pennsylvania, US
+      institution: University of Pennsylvania, Philadelphia, Pennsylvania, US
       year: 2026
       description:
         - Major: Computer Science
         - Minors: Cognitive Science, Linguistics
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: High School Diploma
+      institution: Florida Atlantic University High School, Boca Raton, Florida, US
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Major: Biological Sciences
+        - Minor: Political Science
 
 - title: Experience
   type: time_table
@@ -35,63 +31,67 @@
       institution: Sealing Technologies, a Parsons Company
       year: 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Collaborated with the cybersecurity team to develop a touchscreen interface for servers.
+        - Became proficient in Git and Agile workflows using Atlassian’s Jira system.
+    - title: Teaching Assistant
+      institution: University of Pennsylvania
+      year: 2023-present
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Taught Programming Languages and Techniques, covering functional vs. imperative languages and data structures.
+        - Organized and led three two-hour review sessions per semester, assisting 150+ students in office hours.
+    - title: Full-Stack Developer
+      institution: Hack4Impact
+      year: 2023
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+        - Created an app featuring user-specific portals for administrators, coaches, teachers, and parents.
+        - Designed accessible front-end components using React, Node.js, and MongoDB.
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Caffeind
+      year: 2024
+      description:
+        - Designed and implemented a mobile interface for coffee lovers using Figma and React Native.
+        - Developed features such as search filters and profile pages to enhance user experience.
+    - title: AchieveNow Web Application
+      year: 2023
+      description:
+        - Built an app for literacy programs with attendance tracking and lesson resource management.
+        - Collaborated on front-end development and database integration using MongoDB.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Hack4Impact Impact Award
+    - year: 2023
       items:
-        - Max Planck Medal
+        - Dean’s List, University of Pennsylvania
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Linguistics
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Natural Language Processing (NLP)
+        - Speech-to-Text Programs
+        - Speech Isolation
+    - title: Cognitive Science
       items:
-        - Description 1.
-        - Description 2.
+        - AI Neural Networks
+        - Bayesian Networks
+        - Logical Agents
+    - title: Hardware and Low-Level Programming
+      items:
+        - CPU Architecture
+        - Register Files
+        - Functional Programming (OCaml, Haskell)
+        - Compilers and Operating Systems
+        - Embedded Systems
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Reading science fiction, playing tennis, exploring coffee shops, and trying out new recipes.
