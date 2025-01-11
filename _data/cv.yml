@@ -2,21 +2,21 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Kayla Simpson
     - name: Date of Birth
-      value: 14th March 1879
+      value: 17th November 2003
     - name: Languages
-      value: English, German
+      value: English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor's of Engineering
+      institution: University of Pennsylvania, Phildelphia, Pennsylvania, US
+      year: 2026
       description:
-        - Description 1.
-        - Description 2.
+        - Major: Computer Science
+        - Minors: Cognitive Science, Linguistics
         - title: Description 3.
           contents:
             - Sub-description 1.
@@ -31,9 +31,9 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Software Engineering Intern
+      institution: Sealing Technologies, a Parsons Company
+      year: 2024
       description:
         - Description 1.
         - Description 2.
