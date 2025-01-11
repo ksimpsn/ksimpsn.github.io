@@ -7,10 +7,12 @@
       value: November 17, 2003
     - name: Email
       value: ksimpsn@seas.upenn.edu
+    - name: Phone Number
+      value: (954) 604-0866
     - name: LinkedIn
       value: https://www.linkedin.com/in/kaylasimpsn/
-    - name: Languages
-      value: English
+    - name: Summary
+      value: Computer Science student at the University of Pennsylvania with a strong interest in software development, human-computer interaction, and accessible design. Experienced in full-stack development, teaching, and leadership roles in technical organizations.
 
 - title: Education
   type: time_table
