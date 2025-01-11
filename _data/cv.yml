@@ -3,8 +3,12 @@
   contents:
     - name: Full Name
       value: Kayla Elenia Simpson
-    - name: Date of Birth
+    - name: Birthdate
       value: November 17, 2003
+    - name: Email
+      value: ksimpsn@seas.upenn.edu
+    - name: LinkedIn
+      value: https://www.linkedin.com/in/kaylasimpsn/
     - name: Languages
       value: English
 
@@ -25,31 +29,40 @@
         - Minor: Political Science
         - Completed 100 out of 120 credits towards a Bachelor's of Science in Biological Science at Florida Atlantic University as part of my high school dual-enrollment program. Took courses such as Organic Chemistry I & II, Biodiversity, Comparative Politics of Ethnic Conflict, International Relations, etc.
 
-- title: Experience
+- title: Work Experience
   type: time_table
   contents:
     - title: Software Engineering Intern
       institution: Sealing Technologies, a Parsons Company
-      year: 2024
+      year: May 2024 - Aug 2024
       description:
         - Collaborated with the cybersecurity team to develop a touchscreen interface for servers.
         - Became proficient in Git and Agile workflows using Atlassian’s Jira system.
+
+- title: Extracurricular Experience
+  type: time_table
+  contents:
     - title: Teaching Assistant
       institution: University of Pennsylvania
-      year: 2023-present
+      year: Aug 2023 - Present
       description:
         - Taught Programming Languages and Techniques, covering functional vs. imperative languages and data structures.
         - Organized and led three two-hour review sessions per semester, assisting 150+ students in office hours.
     - title: Full-Stack Developer
       institution: Hack4Impact
-      year: 2023
+      year: Aug 2023 - Present
       description:
         - Created an app featuring user-specific portals for administrators, coaches, teachers, and parents.
         - Designed accessible front-end components using React, Node.js, and MongoDB.
 
-- title: Open Source Projects
+- title: Projects
   type: time_table
   contents:
+  - title: HI SCORE!
+      year: 2024
+      description:
+        - Designed and implemented a mobile interface for coffee lovers using Figma and React Native.
+        - Developed features such as search filters and profile pages to enhance user experience.
     - title: Caffeind
       year: 2024
       description:
@@ -60,17 +73,7 @@
       description:
         - Built an app for literacy programs with attendance tracking and lesson resource management.
         - Collaborated on front-end development and database integration using MongoDB.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2024
-      items:
-        - Hack4Impact Impact Award
-    - year: 2023
-      items:
-        - Dean’s List, University of Pennsylvania
-
+        
 - title: Academic Interests
   type: nested_list
   contents:
